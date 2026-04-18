@@ -1,40 +1,37 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
+		"name": "Amazons",
+		"leaderName": "KinMother",
+		"adjective": ["Amazon"],
+		"startBias": ["Forest"],
 		"preferredVictoryType": "Scientific",
 		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart1": "Greetings Amazon sister. Now that you have mastered your bioengineering skill, the day is come for you to take the infertile remnants of what's left of the Star Union, and terraform it into lush verdant forests, creating a brighter future for all life.",
+		"startIntroPart2": "With spartan discipline the Amazons ride their beast into battle, seeking to replenish with life the whole universe by any means necesary.",
 		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		"declaringWar": "Oh, my beloved trees slaughtered only to be consumed as fuel for their furnaces. Kin-sisters, let our arrows strike them as she grows forests to conceal us.",
+		"attacked": "Listen carefully, Kin-Daughters. The day is come when our past oppressors return, Their ships invade our sacred spaces. Our time of peace is over.",
+		"defeated": "We nurture all life. We were first to coax it from the fertile heart, to encourage it to fly, to sing. Embrace beauty.",
+		"introduction": "Greetings, I assure you, I am no threat. Sure i will protect my offspring and discipline my children, but that's only because mother knows best.",
 		
 		"neutralHello": "How are you doing?",
-		//"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		//"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		//"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+		//"neutralLetsHearIt": ["Let us see, what you had in mind."],
+		//"neutralNo": ["I am sorry to say this isn't what we expected."],
+		//"neutralYes": ["We will make a brighter future for both our colonys today.."],
 
-		"hateHello": "What do you want now?",
-		//"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		//"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		//"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		"hateHello": "Our enemys will regret ever returning.",
+		//"hateLetsHearIt": ["You better not be playing around."],
+		//"hateNo": ["Such a waste of time."],
+		//"hateYes": ["I hope this is the last time we agree on something."],
 		
-		//"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
+		//"afterPeace": "We will forget our past disagreements",
+		"tradeRequest": "This proposal will further the development for both our society's, more so on this foreing and unfamiliar planet.",
 		"denounced": "The accusations of primitive lifeforms are beneath us.",
-		"declaringfriendship": "Let us become like friends!",
+		"declaringfriendship": "We will make the world our paradise.",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
+		"outerColor": [25,213,116],
+		"innerColor": [200,211,255],
 		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"cities": ["Pomona's Palace","Unnadyn","Ondynne","Byossom","Ydun's Region","Selvanns","Azaleea","Lynnden","Sorrel","Terran","Inndigo","Acannthya","Vasilisa","Cassiopeia","Celanndine","Dafnna","Gentyan","Nymphaea","Verbena","Olinndell"]
 	}
 ]
