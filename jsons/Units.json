@@ -27,7 +27,6 @@
 		"rangedStrength": 9,
 		"range": 2,
 		"cost": 30,
-		"promotions": ["May upgrade to [Huntress] throug ruins-like effects"],
 		"attackSound": "nonmetalhit"
 	},
     {
